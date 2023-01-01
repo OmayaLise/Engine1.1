@@ -1,0 +1,238 @@
+[Notification] Open log file Log.txt
+[Test] Vec2 : OK
+[Test] Vec3 : OK
+[Test] Vec4 : OK
+[Test] Mat4 : OK
+[Notification] Add element Menu in resources
+[Notification] Add element Credit in resources
+[Notification] Add element Setting in resources
+---------
+[Notification] Init resource
+[Notification] Add element BasicShader in resources
+[Notification] Add element Patrick in resources
+[Notification] Add element PatrickText in resources
+[Notification] Add element ColliderShader in resources
+[Notification] Add element Cube in resources
+[Notification] Add element Sphere in resources
+[Notification] Add element Wall in resources
+[Notification] Add element Sample in resources
+[Notification] Add element Slime in resources
+[Notification] Add element SlimeText in resources
+[Notification] Add element FryingPan in resources
+[Notification] Add element FryingPanText in resources
+[Notification] Add element Pistol in resources
+[Notification] Add element PistolText in resources
+[Notification] Add element Companion in resources
+[Notification] Add element CompanionText in resources
+[Notification] Add element PotatOS in resources
+[Notification] Add element PotatOSText in resources
+[Notification] Add element Chocobo in resources
+[Notification] Add element ChocoboText in resources
+[Notification] Add element Scene1 in resources
+[Notification] Add element BoxCollider in resources
+[Notification] Load Mesh (Primitif Cube)!
+[Notification] Add element SphereCollider in resources
+[Notification] Load Mesh (Primitif Sphere)!
+[Notification] Add element CapsuleCollider in resources
+[Notification] Load Mesh (Primitif Capsule)!
+[Notification] Change scene Scene1
+---------
+[Notification] Init scene 1
+[Notification] Add gameObject Sphere1 in scene
+[Notification] Camera is set
+[Notification] Add gameObject Camera in scene
+[Notification] Player is set
+[Notification] Add gameObject Player in scene
+[Notification] Set parent Player to Camera
+[Notification] Add gameObject Box1 in scene
+[Notification] Add gameObject Box3 in scene
+[Notification] Add gameObject Box5 in scene
+[Notification] Add gameObject Box6 in scene
+[Notification] Add gameObject Box7 in scene
+[Notification] Add gameObject Box8 in scene
+[Notification] Add gameObject Box9 in scene
+[Notification] Add gameObject Box10 in scene
+[Notification] Add gameObject Pistol in scene
+[Notification] Set parent Player to Pistol
+[Notification] Add gameObject Slime in scene
+[Notification] Add gameObject Companion in scene
+[Notification] Add gameObject PotatOs in scene
+[Notification] Add gameObject Chocobo in scene
+[Notification] Add direction light
+[Notification] Add point light
+[Notification] Add spot light
+[Notification] Open obj Resources/Obj/patrick.obj
+[Notification] Open obj Resources/Obj/cube.obj
+[Notification] Open shader Resources/Shaders/VertexShaderSource.vert
+[Notification] Open shader Resources/Shaders/VertexShaderSource.vert
+[Notification] Close shader Resources/Shaders/VertexShaderSource.vert
+[Notification] Close shader Resources/Shaders/VertexShaderSource.vert
+[Notification] Close obj
+[Notification] Open shader Resources/Shaders/ColliderFrag.frag
+[Notification] Open obj Resources/Obj/Sphere.obj
+[Notification] Open shader Resources/Shaders/FragmentShaderSource.frag
+[Notification] Close shader Resources/Shaders/ColliderFrag.frag
+[Notification] Close shader Resources/Shaders/FragmentShaderSource.frag
+[Notification] Open obj Resources/Obj/Slime.obj
+[Notification] Load Mesh (Cube)!
+[Notification] Open obj Resources/Obj/frying_pan.obj
+[Notification] Close obj
+[Notification] Open obj Resources/Obj/c_pistol.obj
+[Notification] Load Mesh (Slime)!
+[Notification] Close obj
+[Notification] Open obj Resources/Obj/companion.obj
+[Notification] Load Mesh (FryingPan)!
+[Notification] Close obj
+[Notification] Open obj Resources/Obj/potatOS.obj
+[Notification] Load Mesh (Sphere)!
+[Notification] Close obj
+[Notification] Load Mesh (Pistol)!
+[Notification] Open obj Resources/Obj/chocobo.obj
+[Notification] Close obj
+[Notification] Load Mesh (Patrick)!
+[Notification] Close obj
+[Notification] Load Mesh (Chocobo)!
+[Notification] Close obj
+[Notification] Load Mesh (PotatOS)!
+[Notification] Close obj
+[Notification] Load Mesh (Companion)!
+[Notification] Change scene Menu
+[Notification] Delete element PatrickText from resources
+[Notification] Delete element Cube from resources
+[Notification] Delete element BasicShader from resources
+[Notification] Delete element ColliderShader from resources
+[Notification] Delete element Patrick from resources
+[Notification] Delete element Sphere from resources
+[Notification] Delete element Companion from resources
+[Notification] Delete element Wall from resources
+[Notification] Delete element Sample from resources
+[Notification] Delete element Slime from resources
+[Notification] Delete element SlimeText from resources
+[Notification] Delete element FryingPan from resources
+[Notification] Delete element FryingPanText from resources
+[Notification] Delete element Chocobo from resources
+[Notification] Delete element Pistol from resources
+[Notification] Delete element ChocoboText from resources
+[Notification] Delete element PistolText from resources
+[Notification] Delete element CompanionText from resources
+[Notification] Delete element PotatOS from resources
+[Notification] Delete element PotatOSText from resources
+[Notification] Delete element Scene1 from resources
+[Notification] Delete element BoxCollider from resources
+[Notification] Delete element SphereCollider from resources
+[Notification] Delete element CapsuleCollider from resources
+---------
+[Notification] Init resource
+[Notification] Add element BasicShader in resources
+[Notification] Add element Patrick in resources
+[Notification] Add element PatrickText in resources
+[Notification] Add element ColliderShader in resources
+[Notification] Add element Cube in resources
+[Notification] Add element Sphere in resources
+[Notification] Add element Wall in resources
+[Notification] Add element Sample in resources
+[Notification] Add element Slime in resources
+[Notification] Add element SlimeText in resources
+[Notification] Add element FryingPan in resources
+[Notification] Add element FryingPanText in resources
+[Notification] Add element Pistol in resources
+[Notification] Add element PistolText in resources
+[Notification] Add element Companion in resources
+[Notification] Add element CompanionText in resources
+[Notification] Add element PotatOS in resources
+[Notification] Add element PotatOSText in resources
+[Notification] Add element Chocobo in resources
+[Notification] Add element ChocoboText in resources
+[Notification] Add element Scene1 in resources
+[Notification] Add element BoxCollider in resources
+[Notification] Load Mesh (Primitif Cube)!
+[Notification] Add element SphereCollider in resources
+[Notification] Load Mesh (Primitif Sphere)!
+[Notification] Add element CapsuleCollider in resources
+[Notification] Load Mesh (Primitif Capsule)!
+[Notification] Change scene Scene1
+---------
+[Notification] Init scene 1
+[Notification] Add gameObject Sphere1 in scene
+[Notification] Camera is set
+[Notification] Add gameObject Camera in scene
+[Notification] Player is set
+[Notification] Add gameObject Player in scene
+[Notification] Set parent Player to Camera
+[Notification] Add gameObject Box1 in scene
+[Notification] Add gameObject Box3 in scene
+[Notification] Add gameObject Box5 in scene
+[Notification] Add gameObject Box6 in scene
+[Notification] Add gameObject Box7 in scene
+[Notification] Add gameObject Box8 in scene
+[Notification] Add gameObject Box9 in scene
+[Notification] Add gameObject Box10 in scene
+[Notification] Add gameObject Pistol in scene
+[Notification] Set parent Player to Pistol
+[Notification] Add gameObject Slime in scene
+[Notification] Add gameObject Companion in scene
+[Notification] Add gameObject PotatOs in scene
+[Notification] Add gameObject Chocobo in scene
+[Notification] Add direction light
+[Notification] Add point light
+[Notification] Add spot light
+[Notification] Open shader Resources/Shaders/VertexShaderSource.vert
+[Notification] Open shader Resources/Shaders/VertexShaderSource.vert
+[Notification] Close shader Resources/Shaders/VertexShaderSource.vert
+[Notification] Open obj Resources/Obj/patrick.obj
+[Notification] Open obj Resources/Obj/cube.obj
+[Notification] Open shader Resources/Shaders/FragmentShaderSource.frag
+[Notification] Close shader Resources/Shaders/VertexShaderSource.vert
+[Notification] Open shader Resources/Shaders/ColliderFrag.frag
+[Notification] Open obj Resources/Obj/Sphere.obj
+[Notification] Close shader Resources/Shaders/FragmentShaderSource.frag
+[Notification] Close obj
+[Notification] Close shader Resources/Shaders/ColliderFrag.frag
+[Notification] Open obj Resources/Obj/Slime.obj
+[Notification] Load Mesh (Cube)!
+[Notification] Open obj Resources/Obj/frying_pan.obj
+[Notification] Close obj
+[Notification] Open obj Resources/Obj/c_pistol.obj
+[Notification] Load Mesh (Slime)!
+[Notification] Close obj
+[Notification] Open obj Resources/Obj/companion.obj
+[Notification] Load Mesh (FryingPan)!
+[Notification] Close obj
+[Notification] Open obj Resources/Obj/potatOS.obj
+[Notification] Load Mesh (Sphere)!
+[Notification] Close obj
+[Notification] Load Mesh (Pistol)!
+[Notification] Open obj Resources/Obj/chocobo.obj
+[Notification] Close obj
+[Notification] Load Mesh (Patrick)!
+[Notification] Close obj
+[Notification] Load Mesh (Chocobo)!
+[Notification] Close obj
+[Notification] Load Mesh (PotatOS)!
+[Notification] Close obj
+[Notification] Load Mesh (Companion)!
+[Notification] Change scene Menu
+[Notification] Delete element ColliderShader from resources
+[Notification] Delete element BasicShader from resources
+[Notification] Delete element Patrick from resources
+[Notification] Delete element PatrickText from resources
+[Notification] Delete element Cube from resources
+[Notification] Delete element Sphere from resources
+[Notification] Delete element Companion from resources
+[Notification] Delete element Wall from resources
+[Notification] Delete element Sample from resources
+[Notification] Delete element Slime from resources
+[Notification] Delete element SlimeText from resources
+[Notification] Delete element FryingPan from resources
+[Notification] Delete element FryingPanText from resources
+[Notification] Delete element Chocobo from resources
+[Notification] Delete element Pistol from resources
+[Notification] Delete element ChocoboText from resources
+[Notification] Delete element PistolText from resources
+[Notification] Delete element CompanionText from resources
+[Notification] Delete element PotatOS from resources
+[Notification] Delete element PotatOSText from resources
+[Notification] Delete element Scene1 from resources
+[Notification] Delete element BoxCollider from resources
+[Notification] Delete element SphereCollider from resources
+[Notification] Delete element CapsuleCollider from resources
